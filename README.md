@@ -35,7 +35,7 @@ mvn clean verify
 
 ---
 
-## 🏗️ Estructura del Proyecto
+## Estructura del Proyecto
 
 A continuación, se describe la función de los archivos y directorios más importantes del proyecto.
 
