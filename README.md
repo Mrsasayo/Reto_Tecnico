@@ -2,7 +2,7 @@
 
 Este repositorio contiene la solución a un reto técnico diseñado para evaluar y validar conocimientos en la automatización de pruebas web utilizando Serenity BDD, Cucumber y Java con Maven.
 
-## ⚙️ Guía de Configuración y Ejecución
+## Guía de Configuración y Ejecución
 
 Siga los siguientes pasos para configurar y ejecutar las pruebas en su entorno local.
 
