@@ -1,4 +1,3 @@
-```markdown
 # Reto Técnico de Automatización - SQA
 
 Este repositorio contiene la solución a un reto técnico diseñado para evaluar y validar conocimientos en la automatización de pruebas web utilizando Serenity BDD, Cucumber y Java con Maven.
@@ -13,6 +12,7 @@ Primero, clone este repositorio en su máquina local utilizando el siguiente com
 
 ```bash
 git clone https://github.com/Mrsasayo/Reto_Tecnico.git
+
 ```
 
 ### 2. Ejecutar las Pruebas
